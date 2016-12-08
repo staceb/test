@@ -1,1 +1,7 @@
-site.github.public_repositories: ['720kb/ndm', '720kb/checkbox.css'];
+github: [metadata]
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ gems:
+   - jekyll-coffeescript
+   - jekyll-paginate
